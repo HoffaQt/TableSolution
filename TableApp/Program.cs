@@ -31,9 +31,9 @@ internal static class Program
         bool exit = false;
         while (!exit)
         {
-            var inputs = Console.ReadLine().ToList();
+            var inputs = Console.ReadLine()?.ToList();
 
-            inputs.ForEach(input => {
+            inputs?.ForEach(input => {
                 switch (input)
                 {
                     case '0':
