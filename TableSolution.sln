@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableApp", "TableApp\TableApp.csproj", "{DB0CAC60-B72D-48BA-BC92-64CA37BBDB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableTests", "TableTests\TableTests.csproj", "{1C771102-0A26-4A9F-A5E5-AF07334883ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0CAC60-B72D-48BA-BC92-64CA37BBDB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0CAC60-B72D-48BA-BC92-64CA37BBDB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0CAC60-B72D-48BA-BC92-64CA37BBDB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0CAC60-B72D-48BA-BC92-64CA37BBDB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C771102-0A26-4A9F-A5E5-AF07334883ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C771102-0A26-4A9F-A5E5-AF07334883ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C771102-0A26-4A9F-A5E5-AF07334883ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C771102-0A26-4A9F-A5E5-AF07334883ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73B8D25-4359-4182-9258-A5E6F5472EF8}
+	EndGlobalSection
+EndGlobal
